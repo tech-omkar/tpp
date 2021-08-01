@@ -1,0 +1,19 @@
+</form>
+</div>
+<footer>
+    <div class="footer-content">
+        <h3>Android Noober</h3>
+        <p>Hey here you are on the Discord Moderator Form.</p>
+        <p>By filling the you form will be submitted to Noober and to the Discord Channel named Mod-Application 
+            and Your form will be Reviewed by Noober & Support Team Members</p>
+            <ul class="socials">
+                <li><a href="https://www.youtube.com/channel/UCgTrAJpJ937_IrwkLiZ3yaA"><i class="fa fa-youtube"></i></a></li>
+                <li><a href="https://www.instagram.com/androidnoober"><i class="fa fa-instagram"></i></a></li>
+                <li><a href="https://discord.gg/s2r5gZx6zd"><i class="fab fa-discord"></i></a></li>
+                <li><a href="https://twitter.com/AndroidNoober"><i class="fa fa-twitter"></i></a></li>
+            </ul>
+    </div>
+    <div class="footer-buttom">
+        <p>Copyright &copy;2021 <span>Android Noober</span></p>
+    </div>
+</footer>
